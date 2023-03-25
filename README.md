@@ -1,5 +1,5 @@
 # PS_ping-portscan
-Lightweight ping sweep and port scan script written in Powershell.
+Lightweight ping sweep and port scan script written in Powershell. No additional powershell modules needed.
 
 ## User input:
 

@@ -1,4 +1,4 @@
-# PS_ping-portscan
+# swift_sweep
 Lightweight ping sweep and port scan script written in Powershell. No additional powershell modules needed.
 
 ## User input:
